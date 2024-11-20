@@ -1,0 +1,65 @@
+cmd
+Opens the Command Prompt (classic Windows terminal).
+
+powershell
+Launches PowerShell, a more powerful terminal for advanced commands.
+
+winver
+Displays the current version of Windows installed.
+
+msconfig
+Opens the System Configuration utility to manage startup programs, services, etc.
+
+taskmgr
+Opens Task Manager, useful for monitoring PC performance and managing processes.
+
+devmgmt.msc
+Launches Device Manager to manage your computer’s hardware components.
+
+control
+Opens the classic Control Panel.
+
+appwiz.cpl
+Opens the Programs and Features window, allowing you to uninstall or modify installed programs.
+
+regedit
+Opens the Registry Editor to modify advanced system settings.
+
+cleanmgr
+Launches the Disk Cleanup tool to free up space on your hard drive.
+
+dxdiag
+Opens the DirectX Diagnostic Tool to check hardware configuration and graphics drivers.
+
+eventvwr
+Opens the Event Viewer to check system logs for errors and events.
+
+ncpa.cpl
+Opens the Network Connections window, allowing you to manage network settings.
+
+msinfo32
+Opens System Information, providing detailed info about your system’s hardware, software, and resources.
+
+shutdown -r -t 0
+Immediately restarts your computer (you can adjust the time delay with "-t" if needed).
+
+control userpasswords2
+Opens the User Accounts management window to modify passwords and user permissions.
+
+magnify
+Launches the Magnifier tool, useful for zooming in on parts of the screen.
+
+write
+Opens WordPad, a simple text editing application.
+
+explorer
+Opens File Explorer to navigate through files and folders.
+
+mstsc
+Launches Remote Desktop Connection, allowing you to connect to another computer using RDP.
+
+control printers
+Opens the Printers and Devices window to manage installed printers.
+
+lusrmgr.msc
+Opens the Local Users and Groups Manager.
